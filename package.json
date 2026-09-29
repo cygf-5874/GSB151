@@ -1,0 +1,11 @@
+{
+  "name": "phifd",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Node.js 22 phi accrual failure detector.",
+  "scripts": {
+    "test": "node --test",
+    "check": "node check/check.mjs"
+  }
+}
